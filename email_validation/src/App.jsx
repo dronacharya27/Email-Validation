@@ -46,7 +46,7 @@ const handleData=(e)=>{
       <form action="">
         <input type="email" placeholder='Email' name='email' value={data} onChange={(e)=>handleData(e)} style={{width:200,height:50,margin:20,padding:'0px 10px'}}/>
         <br />
-        <button type='submit' onClick={(e)=>handleValidate(e)}>Check Email</button>
+        <button type='submit' onClick={(e)=>handleValidate(e)}>Validate</button>
        <p>{email_error}</p> 
 
       </form>
