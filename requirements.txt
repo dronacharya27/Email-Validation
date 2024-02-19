@@ -1,0 +1,12 @@
+asgiref==3.7.2
+Django==4.2.8
+django-cors-headers==4.3.1
+django-rest-framework==0.1.0
+djangorestframework==3.14.0
+dnspython==2.6.0
+filelock==3.13.1
+idna==3.6
+py3-validate-email @ git+https://gitea.ksol.io/karolyi/py3-validate-email@3f3fcc241c03e85f0f8466992cded1f715f04d67
+pytz==2024.1
+sqlparse==0.4.4
+typing_extensions==4.9.0
