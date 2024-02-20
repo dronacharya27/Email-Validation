@@ -2,6 +2,8 @@
 
 This project is aimed at validating whether an email address exists on the internet or not. It utilizes Django for the backend and React for the frontend.
 
+![Getting Started](./EmailValidator.png)
+
 ## Features
 
 - Validates email addresses to check if they exist.
