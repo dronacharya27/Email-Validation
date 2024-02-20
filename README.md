@@ -19,7 +19,7 @@ git clone https://github.com/dronacharya27/Email-Validation
 ```
 2. Navigate to the backend directory.
 ```bash
-cd auth_module
+cd email_backend
 ```
 
 3. Install the required Python dependencies.
@@ -39,7 +39,7 @@ python manage.py runserver
 
 6. Open another terminal window and navigate to the frontend directory.
 ```bash
-cd email_validation
+cd email_frontend
 ```
 
 7. Install the required Node.js dependencies.
